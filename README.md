@@ -19,7 +19,7 @@ The notebooks contained here cover my solutions to exercises, experiments with d
 
 ## 🎓 About the Course
 
-This repository follows the curriculum provided by [Launched Global](https://www.launchedglobal.com/). The course covers a wide range of fundamental and advanced topics in AI/ML, including:
+This repository follows the curriculum provided by [Launched Global](https://www.launchedglobal.in/). The course covers a wide range of fundamental and advanced topics in AI/ML, including:
 
 * **Python for Data Science:** NumPy, Pandas, Matplotlib, Seaborn
 * **Data Preprocessing and Feature Engineering**
