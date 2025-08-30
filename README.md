@@ -1,4 +1,4 @@
-# AI & Machine Learning Journey with Launched Global
+# AI with Launched Global
 
 ![Course](https://img.shields.io/badge/Course-AI%20%26%20ML-blue)
 ![Provider](https://img.shields.io/badge/Provider-Launched%20Global-orange)
@@ -28,7 +28,31 @@ This repository follows the curriculum provided by [Launched Global](https://www
 * **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 * **Natural Language Processing (NLP)**
 * **Computer Vision (CV)**
+Of course, here's a repository structure based on the files from your screenshot, organized in a clear, modular way.
 
+-----
+
+## 📂 Repository Structure
+
+The repository is organized by machine learning concepts, with each folder containing the relevant Jupyter notebook for that topic.
+
+```
+/
+├── 01-Exploratory-Data-Analysis/
+│   └── EDA_FOR_RANDOM_DATA_SET.ipynb
+│
+├── 02-Supervised-Learning/
+│   ├── 01-Linear-Regression.ipynb
+│   ├── 02-Random-Forest.ipynb
+│   └── 03-Adaptive-Boosting.ipynb
+│
+├── 03-Unsupervised-Learning/
+│   ├── 01-K-Means-Clustering.ipynb
+│   └── 02-PCA.ipynb
+│
+└── README.md
+
+```
 
 ## 🛠️ Technologies Used
 
